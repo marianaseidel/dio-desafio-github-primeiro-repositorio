@@ -42,9 +42,9 @@ $ git commit --amend –m "nova mensagem"
 $ git checkout -b branchName
 ```
 
-### Retornar para a branch master: 
+### Retornar para a branch main: 
 ```bash
-$ git checkout master
+$ git checkout main
 ```
 
 ### Restaurar um arquivo modificado: 
